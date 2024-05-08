@@ -6,4 +6,5 @@ This GitHub organization holds Neutralinojs developer tools, extensions, and CLI
 
 ## Maintainers
 
+- [Viral Gupta](https://github.com/viralgupta)
 - [Your Name](https://github.com/#yourusername)
